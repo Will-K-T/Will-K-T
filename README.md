@@ -15,5 +15,6 @@ I'm Will, a programmer that loves just about anything that involves rockets 🚀
 - Numerical Methods 🔢
 - NASA's Trick Simulation Environment 🪐
 
-### Some fun stats
+### 📈 Some fun stats
+
 
