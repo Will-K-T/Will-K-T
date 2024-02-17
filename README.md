@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hello there!
 
-<!--
-**Will-K-T/Will-K-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+I'm Will, a programmer that loves just about anything that involves rockets 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🔭 I am currently working on
+- Simulation software to automate the rocket design procress in Kerbal Space Program [Check it out!](https://github.com/Will-K-T/KSP-Automation)
+
+### 🌱 am currently learning
+
+- Orbital Mechanics 🛰️
+- Numerical Methods 🔢
+- NASA's Trick Simulation Environment 🪐
+
+### Some fun stats
+
