@@ -3,7 +3,7 @@
 I'm Will, a programmer that loves just about anything that involves rockets 🚀
 
 ### 🔭 Currently working on
-[![Readme Card](https://github-readme-stats-beige-sigma-26.vercel.app/api/pin/?username=Will-K-T&repo=KSP-Automation&show_owner=true&theme=react)](https://github.com/Will-K-T/KSP-Automation)
+[![Readme Card](https://github-readme-stats-clone-3er1rrg8k-will-k-ts-projects.vercel.app/api/pin/?username=Will-K-T&repo=KSP-Automation&show_owner=true&theme=react)](https://github.com/Will-K-T/KSP-Automation)
 [![Readme Card](https://github-readme-stats-beige-sigma-26.vercel.app/api/pin/?username=Will-K-T&repo=Rocket-Sim-Graphics&show_owner=true&theme=react)](https://github.com/Will-K-T/Rocket-Sim-Graphics)
 
 ### 🌍 Currently exploring
